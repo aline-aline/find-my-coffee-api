@@ -19,7 +19,7 @@ ActiveRecord::Schema.define(version: 2020_10_19_191244) do
   create_table "ratings", force: :cascade do |t|
     t.bigint "store_id", null: false
     t.integer "value"
-    t.string "opinions"
+    t.string "opinion"
     t.string "user_name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
