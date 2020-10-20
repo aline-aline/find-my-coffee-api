@@ -1,0 +1,22 @@
+2020-10-19 21:48:03.949 CEST [3868] LOG:  starting PostgreSQL 13.0 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.2), 64-bit
+2020-10-19 21:48:03.951 CEST [3868] LOG:  could not bind IPv6 address "::1": Address already in use
+2020-10-19 21:48:03.951 CEST [3868] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-10-19 21:48:03.951 CEST [3868] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2020-10-19 21:48:03.951 CEST [3868] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-10-19 21:48:03.951 CEST [3868] WARNING:  could not create listen socket for "localhost"
+2020-10-19 21:48:03.951 CEST [3868] FATAL:  could not create any TCP/IP sockets
+2020-10-19 21:48:03.953 CEST [3868] LOG:  database system is shut down
+2020-10-19 22:02:44.666 CEST [11984] LOG:  starting PostgreSQL 13.0 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.2), 64-bit
+2020-10-19 22:02:44.668 CEST [11984] LOG:  could not bind IPv6 address "::1": Address already in use
+2020-10-19 22:02:44.668 CEST [11984] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-10-19 22:02:44.668 CEST [11984] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2020-10-19 22:02:44.668 CEST [11984] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-10-19 22:02:44.668 CEST [11984] WARNING:  could not create listen socket for "localhost"
+2020-10-19 22:02:44.668 CEST [11984] FATAL:  could not create any TCP/IP sockets
+2020-10-19 22:02:44.670 CEST [11984] LOG:  database system is shut down
+2020-10-20 15:03:18.340 CEST [50623] LOG:  starting PostgreSQL 13.0 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.2), 64-bit
+2020-10-20 15:03:18.350 CEST [50623] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2020-10-20 15:03:18.350 CEST [50623] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-10-20 15:03:18.350 CEST [50623] WARNING:  could not create listen socket for "localhost"
+2020-10-20 15:03:18.350 CEST [50623] FATAL:  could not create any TCP/IP sockets
+2020-10-20 15:03:18.352 CEST [50623] LOG:  database system is shut down
